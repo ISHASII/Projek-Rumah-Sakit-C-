@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671972372 source:c:\users\ilham\onedrive\documents\coding faqih\uas alpro c++\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+
+1672113537 source:c:\users\ilham\onedrive\documents\tugas codingan\uas alpro c++\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+
